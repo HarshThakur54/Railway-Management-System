@@ -1,6 +1,6 @@
  Railway Reservation System
 
- Overview
+
 The Railway Reservation System is a Java-based application designed to manage train schedules, ticket bookings, passenger details, and route handling. The system uses Java Swing for the GUI and MySQL for data storage.
 
 Features
